@@ -1,6 +1,6 @@
 {
   "name": "path-pattern-matcher-kit",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Check whether file paths fit basic glob patterns with * and ** wildcards.",
   "type": "module",
   "main": "src/index.js",
